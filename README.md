@@ -9,7 +9,9 @@ You will see three use cases for how to access and set custom session properties
 
 This demonstration uses GoogleProvider, so update .env.local with:
 
+```
 GOOGLE_ID="xxx"
 GOOGLE_SECRET="xxx"
+```
 
 (or use any other provider)
