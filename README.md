@@ -1,5 +1,5 @@
 
-This project demonstrates how to effectively set custom properties in JWT tokens and utilize them across client, middleware, and server components. The use cases outlined in this repository illustrate how these custom properties can be used to enhance authentication, manage user sessions, and pass essential information securely between the client and server.
+This project demonstrates how to effectively set custom properties in JWT tokens and utilize them across client, middleware, and server components. Built using Next.js 14 and next-auth 4.24. The use cases outlined in this repository illustrate how these custom properties can be used to enhance authentication, manage user sessions, and pass essential information securely between the client and server.
 
 To start:
 - `make up`
