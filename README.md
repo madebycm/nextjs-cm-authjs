@@ -6,3 +6,10 @@ To start:
 - go to http://localhost:3000/cm
 
 You will see three use cases for how to access and set custom session properties using next-auth. This can be extended to serve as role-based access controls (RBAC), etc.
+
+This demonstration uses GoogleProvider, so update .env.local with:
+
+GOOGLE_ID="xxx"
+GOOGLE_SECRET="xxx"
+
+(or use any other provider)
